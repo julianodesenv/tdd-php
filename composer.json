@@ -1,10 +1,10 @@
 {
-    "name": "erikfig/query-builder",
+    "name": "juliaodesenv/query-builder",
     "type": "library",
     "authors": [
         {
-            "name": "Erik Figueiredo",
-            "email": "erik.figueiredo@gmail.com"
+            "name": "Juliano Monteiro",
+            "email": "julianodesenv@gmail.com"
         }
     ],
     "require": {
